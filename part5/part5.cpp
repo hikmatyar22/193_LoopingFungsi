@@ -8,3 +8,6 @@ void inputdata() {
 	cin >> sisi;
 
 }
+int hitungluas() {
+	return sisi * sisi;
+}
