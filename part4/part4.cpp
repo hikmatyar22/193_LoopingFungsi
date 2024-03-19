@@ -13,3 +13,6 @@ void inputdata() {
 int hitungluas() {
 	return panjang * lebar;
 }
+void bebas() {
+	cout << "luasnya adalah : " << hitungluas() << endl;
+}
