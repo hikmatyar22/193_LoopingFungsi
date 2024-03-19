@@ -13,7 +13,7 @@ int main()
 	do
 	{
 		cout << "Perulangan Do..While" << endl;
-		x = rand() & 10;
+		x = rand() % 10;
 
 		cout << "Nilai Awal : " << x << endl;
 	} while (x > 4);
