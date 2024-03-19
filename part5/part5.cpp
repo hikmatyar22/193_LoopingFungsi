@@ -11,3 +11,11 @@ void inputdata() {
 int hitungluas() {
 	return sisi * sisi;
 }
+void luas() {
+	cout << "luas perseginya adalah : " << hitungluas() << endl;
+}
+int main() {
+	inputdata();
+	luas();
+
+}
