@@ -16,3 +16,9 @@ int hitungluas() {
 void bebas() {
 	cout << "luasnya adalah : " << hitungluas() << endl;
 }
+int main() {
+	inputdata();
+	bebas();
+
+
+}
