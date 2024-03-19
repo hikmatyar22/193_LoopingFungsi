@@ -21,6 +21,8 @@ int main()
 		cout << "Data Array ke - " << i << " :" << arr[i] << endl;
 	}
 
+	return 0;
+
 
 }
 
